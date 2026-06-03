@@ -142,16 +142,19 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Statistics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gpriyadharshini8148&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gpriyadharshini8148&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gpriyadharshini8148&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gpriyadharshini8148&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpriyadharshini8148&layout=compact&theme=tokyonight)
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpriyadharshini8148&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🤝 Connect With Me
