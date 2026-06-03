@@ -157,15 +157,14 @@ Smart Android travel companion with intelligent itinerary planning.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gpriyadharshini8148&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gpriyadharshini8148&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpriyadharshini8148&layout=compact&theme=tokyonight&hide_border=true)
+![REST APIs](https://img.shields.io/badge/REST%20APIs%20Built-10%2B-2496ED?style=for-the-badge&logo=fastapi&logoColor=white)
+![ML Accuracy](https://img.shields.io/badge/Best%20ML%20Accuracy-95%25%2B-37814A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.52%20%2F%2010-FF6F00?style=for-the-badge&logo=academia&logoColor=white)
+![Latency](https://img.shields.io/badge/Latency%20Reduced-25%25-D00000?style=for-the-badge&logo=speedtest&logoColor=white)
 
 </div>
 
